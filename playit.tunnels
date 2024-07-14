@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "fl-rb.gl.joinmc.link",
@@ -37,7 +37,7 @@
           "agent_id": "bad5418d-664b-4fae-8e3f-a6041974ad66",
           "agent_name": "from-key-5893",
           "local_ip": "127.0.0.1",
-          "local_port": 25565
+          "local_port": 52633
         },
         "type": "agent"
       },
